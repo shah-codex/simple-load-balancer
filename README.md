@@ -5,6 +5,8 @@ This project implements a high-performance **load balancer** using **RoundRobin*
 The load balancer supports **bi-directional asynchronous communication** to facilitate efficient, low-latency interactions between multiple clients and backend servers. For testing, the project includes Java-based stubs that simulate the behavior of clients and servers using **IO Multiplexing** techniques, which allow handling multiple I/O operations concurrently.
 
 ## Screenshot
+![image](https://github.com/user-attachments/assets/157d5047-51e0-48da-bbfb-be1f1ad7b681)
+
 
 ## Key Features
 
